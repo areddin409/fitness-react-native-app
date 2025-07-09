@@ -73,7 +73,7 @@ export default function Page() {
 
             {/* Signin Form */}
             <View className='bg-white rounded-2xl p-6 shadow-sm border border-gray-100 mb-6'>
-              <Text className='text-2xl fond-bold text-gray-900 mb-6 text-center'>
+              <Text className='text-2xl font-bold text-gray-900 mb-6 text-center'>
                 Welcome Back
               </Text>
 
